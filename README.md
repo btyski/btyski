@@ -1,4 +1,4 @@
-# Oii, eu sou a belltyski!  😉
+# Oii, eu sou a btyski!  😉
 -  💼 Atualemnte trabalho como Técnica em Enfermagem.
 -  📚 Estudando Engenharia de Sofware.
 
