@@ -1,12 +1,12 @@
 # Oii, eu sou a btyski!  😉
--  💼 Atualemnte trabalho como Técnica em Enfermagem.
+-  💼 Atualmente trabalho como Técnica em Enfermagem.
 -  📚 Estudando Engenharia de Sofware.
 
 
 <div align="center">
   <a href="https://github.com/belltyski">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=belltyski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=belltyski&layout=compact&langs_count=7&theme=dark"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=btyski&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=btyski&layout=compact&langs_count=7&theme=dark"/>
  </div>
 
 <div><br><br>
